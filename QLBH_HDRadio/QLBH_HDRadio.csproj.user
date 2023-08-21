@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI\Danhgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\Hanghoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\Muahanghoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\Hoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
